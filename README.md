@@ -23,7 +23,7 @@ To get started with the Image to Black Converter project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/image-to-black.git
+    git clone https://github.com/syed-muqtasid-ali/image-to-black.git
     ```
 
 2. **Navigate to the project directory**:
